@@ -1,0 +1,14 @@
+/home/jhose/Documentos/Modulosusfx/Modulo 6/Activity2/bin/Debug/net8.0/Activity2
+/home/jhose/Documentos/Modulosusfx/Modulo 6/Activity2/bin/Debug/net8.0/Activity2.deps.json
+/home/jhose/Documentos/Modulosusfx/Modulo 6/Activity2/bin/Debug/net8.0/Activity2.runtimeconfig.json
+/home/jhose/Documentos/Modulosusfx/Modulo 6/Activity2/bin/Debug/net8.0/Activity2.dll
+/home/jhose/Documentos/Modulosusfx/Modulo 6/Activity2/bin/Debug/net8.0/Activity2.pdb
+/home/jhose/Documentos/Modulosusfx/Modulo 6/Activity2/obj/Debug/net8.0/Activity2.GeneratedMSBuildEditorConfig.editorconfig
+/home/jhose/Documentos/Modulosusfx/Modulo 6/Activity2/obj/Debug/net8.0/Activity2.AssemblyInfoInputs.cache
+/home/jhose/Documentos/Modulosusfx/Modulo 6/Activity2/obj/Debug/net8.0/Activity2.AssemblyInfo.cs
+/home/jhose/Documentos/Modulosusfx/Modulo 6/Activity2/obj/Debug/net8.0/Activity2.csproj.CoreCompileInputs.cache
+/home/jhose/Documentos/Modulosusfx/Modulo 6/Activity2/obj/Debug/net8.0/Activity2.dll
+/home/jhose/Documentos/Modulosusfx/Modulo 6/Activity2/obj/Debug/net8.0/refint/Activity2.dll
+/home/jhose/Documentos/Modulosusfx/Modulo 6/Activity2/obj/Debug/net8.0/Activity2.pdb
+/home/jhose/Documentos/Modulosusfx/Modulo 6/Activity2/obj/Debug/net8.0/Activity2.genruntimeconfig.cache
+/home/jhose/Documentos/Modulosusfx/Modulo 6/Activity2/obj/Debug/net8.0/ref/Activity2.dll
